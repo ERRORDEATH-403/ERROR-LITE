@@ -21,12 +21,12 @@ rm -rf ERROR
 git clone https://github.com/MR-TMX-404/ERROR
 git pull
 cd ERROR
-python ERROR_enc.py
+python ERROR.py
 
 ___THIS TOOLS IS PAID AND FREE THERE ARE BOTH.___</br>
 
 cd ERROR
-python ERROR_enc.py
+python ERROR.py
 ```
 
 ___THIS TOOLS IS PAID AND FREE THERE ARE BOTH.___</br>
