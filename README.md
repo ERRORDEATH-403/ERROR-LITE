@@ -17,15 +17,15 @@ MR.ERROR <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 ```
 cd $HOME
-rm -rf ERROR
-git clone https://github.com/MR-TMX-404/ERROR
+rm -rf ERROR-LITE
+git clone https://github.com/ERRORDEATH-403/ERROR-LITE
 git pull
-cd ERROR
+cd ERROR-LITE
 python ERROR.py
 
 ___THIS TOOLS IS PAID AND FREE THERE ARE BOTH.___</br>
 
-cd ERROR
+cd ERROR-LITE
 python ERROR.py
 ```
 
